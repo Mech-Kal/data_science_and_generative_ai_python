@@ -1,0 +1,2 @@
+# data_science_and_generative_ai
+data_science_and_generative_ai assignment repo
